@@ -4,5 +4,5 @@
 ## Détails du challenge 
 Type de challenge - Web
 Difficulté - Easy 
-
+![image] (challenges/web/jscalc/capture1_dashboardchallengeillustration.PNG)
 # Déroulé du challenge 
