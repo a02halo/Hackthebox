@@ -6,7 +6,7 @@ _write up par Arnolelavabo / A02halo / Arnaud_
 
 Type de challenge - Web Difficulté - Easy
 
-[image](https://github.com/a02halo/Hackthebox/blob/1f1e8812f4d2366722c6e05aa59338019d81eb2f/challenges/web/jscalc/capture1_dashboardchallengeillustration.PNG)
+![image](https://github.com/a02halo/Hackthebox/blob/1f1e8812f4d2366722c6e05aa59338019d81eb2f/challenges/web/jscalc/capture1_dashboardchallengeillustration.PNG)
 
 **Déroulé du challenge**
 
